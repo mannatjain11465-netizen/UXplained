@@ -8,6 +8,7 @@
 
 ---
 
+NOTION FILE LINK (PLEASE GO THROUGH IT) - https://www.notion.so/UI-UX-laws-Design-UXplained-2cc45b0455d8801aa045ea3d63935cc2
 ## 🚀 What is UXplained?
 
 UXplained is an interactive design repository where **abstract UI/UX laws** become **practical mini-projects**.
