@@ -1,0 +1,19 @@
+Figma Link: https://www.figma.com/design/3SgohyjeqSQZcxy9TqJ8VG/WhatsApp_Telegram_BrandSwap?node-id=0-1&t=qqTfOPu8LBbVvzGi-1
+
+## Brand Pair Chosen:
+WhatsApp → Telegram UI Swap
+In this project, I redesigned WhatsApp using Telegram’s visual style.
+My aim was to keep WhatsApp’s core features the same, but present them using Telegram’s clean and modern design language.
+
+## Design Approach
+I designed three main screens:
+
+1. Hero Screen –
+To create a strong first impression using soft gradients, rounded shapes, and simple typography inspired by Telegram.
+
+2. Login Screen –
+I used a card-based layout with clear spacing and soft shadows to keep the screen clean and easy to understand.
+
+3. Home Screen –
+The chat content remains WhatsApp-like, but the layout, icons, bottom navigation, and floating action button follow Telegram’s UI style.
+
